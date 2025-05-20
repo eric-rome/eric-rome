@@ -13,10 +13,6 @@
 [Repositorio](https://github.com/eric-rome/tfg-estrategia-rl)  
 Juego estilo Advance Wars donde una IA aprende a jugar mediante aprendizaje por refuerzo.
 
-### 🕹️ My Evil Maze (TFM)
-[Repositorio](https://github.com/eric-rome/my-evil-maze)  
-Roguelite 2D con mecánicas de construcción de mazos, donde tú eres el villano.
-
 ---
 
 ## 📫 Contacto
