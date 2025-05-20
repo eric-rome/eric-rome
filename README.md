@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Eric
 
-<!--
-**eric-rome/eric-rome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería Informática  
+🎮 Apasionado por el desarrollo de videojuegos y la inteligencia artificial  
+🤖 Actualmente trabajando en proyectos de IA con aprendizaje por refuerzo  
+🛠️ Tecnologías: Python, Unity, Pygame, Gymnasium, Stable-Baselines3
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos Destacados
+
+### 🧠 TFG - Juego de estrategia con IA entrenada
+[Repositorio](https://github.com/eric-rome/tfg-estrategia-rl)  
+Juego estilo Advance Wars donde una IA aprende a jugar mediante aprendizaje por refuerzo.
+
+### 🕹️ My Evil Maze (TFM)
+[Repositorio](https://github.com/eric-rome/my-evil-maze)  
+Roguelite 2D con mecánicas de construcción de mazos, donde tú eres el villano.
+
+---
+
+## 📫 Contacto
+- [LinkedIn](https://linkedin.com/in/tu-usuario)
+- Correo: tuemail@gmail.com
