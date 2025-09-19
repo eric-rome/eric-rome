@@ -6,7 +6,7 @@ Apasionado por el desarrollo de videojuegos y la inteligencia artificial
 Experiencia en IA con aprendizaje por refuerzo, diseño de juegos, UI/UX y desarrollo 2D/3D  
 Tecnologías: Python, Unity, Pygame, Gymnasium, Stable-Baselines3
 
-*[Disponible en: [Español](./README.es.md) · [English](./README.md) · [Català](./README.ca.md)]*
+*[Disponible en: [Español](./README.es.md) · [English](./README.md) · [Català](./README.cat.md)]*
 
 ---
 
