@@ -17,4 +17,4 @@ Juego estilo Advance Wars donde una IA aprende a jugar mediante aprendizaje por 
 
 ## 📫 Contacto
 - [LinkedIn](https://linkedin.com/in/tu-usuario)
-- Correo: tuemail@gmail.com
+- Correo: ericrmerichal@gmail.com
