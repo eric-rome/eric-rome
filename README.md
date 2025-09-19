@@ -3,8 +3,8 @@
 Computer Engineering graduate (specialized in Computing)  
 Currently studying a Master's Degree in Video Game Development at UOC  
 Passionate about video game development and artificial intelligence  
-Experience in reinforcement learning, game design, UI/UX, and 2D/3D development  
-Technologies: Python, Unity, Pygame, Gymnasium, Stable-Baselines3, C++, OpenGL
+Experience in machine learning and 2D/3D game development  
+Technologies: Python, Unity, Pygame, Gymnasium, Stable-Baselines3, C, C++, C#, OpenGL, Autoit, Java, PHP, SQL, Arduino
 
 *[Available in: [Español](./README.es.md) · [English](./README.md) · [Català](./README.cat.md)]*
 
