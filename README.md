@@ -1,59 +1,59 @@
-# ¡Hola! Soy Eric
+# Hi! I'm Eric
 
-Graduado en Ingeniería Informática (mención en Computación)  
-Actualmente estudiando un Máster en Desarrollo de Videojuegos en la UOC  
-Apasionado por el desarrollo de videojuegos y la inteligencia artificial  
-Experiencia en IA con aprendizaje por refuerzo, diseño de juegos, UI/UX y desarrollo 2D/3D  
-Tecnologías: Python, Unity, Pygame, Gymnasium, Stable-Baselines3
+Computer Engineering graduate (specialized in Computing)  
+Currently studying a Master's Degree in Video Game Development at UOC  
+Passionate about video game development and artificial intelligence  
+Experience in reinforcement learning, game design, UI/UX, and 2D/3D development  
+Technologies: Python, Unity, Pygame, Gymnasium, Stable-Baselines3
 
 ---
 
-## Proyectos Destacados
+## Featured Projects
 
-### StrategyEnv (TFG)
-Juego de estrategia por turnos donde una IA aprende a jugar con aprendizaje por refuerzo.
-- [Repositorio](https://github.com/eric-rome/strategy-env-rl)
+### StrategyEnv (Final Degree Project)
+Turn-based strategy game where an AI learns to play through reinforcement learning.
+- [Repository](https://github.com/eric-rome/strategy-env-rl)
 - Gymnasium · PPO/A2C/DQN · Python
-- Incluye métricas, entrenamientos y partidas renderizadas
+- Includes metrics, training logs, and rendered matches
 
 ---
 
 ### Dont Pop It!
-Juego hecho en una game jam: transporta una burbuja gigante sin que explote.
-- [Repositorio](https://github.com/eric-rome/dont-pop-it)
-- Unity 3D · Física personalizada · Game design exprés
-- [Demo WebGL](...)
+Game developed during a game jam: carry a giant bubble without popping it.
+- [Repository](https://github.com/eric-rome/dont-pop-it)
+- Unity 3D · Custom physics · Fast-paced game design
+- [WebGL Demo](...)
 
 ---
 
 ### Escape Train
-Pequeño juego hecho en C++/OpenGL en la universidad.
-- [Repositorio](https://github.com/eric-rome/escape-train)
-- Renderizado bajo nivel · Gestión de físicas simples
+Small game built with C++/OpenGL at university.
+- [Repository](https://github.com/eric-rome/escape-train)
+- Low-level rendering · Basic physics management
 
 ---
 
 ### Slapbot
-Robot físico que juega a un juego de cartas con visión y motores.
-- [Repositorio](https://github.com/eric-rome/slapbot)
-- OpenCV · Python · Arduino · Control de servos
+Physical robot that plays a card game using computer vision and motors.
+- [Repository](https://github.com/eric-rome/slapbot)
+- OpenCV · Python · Arduino · Servo control
 
 ---
 
 ### Swimming Pool Detection
-Detecta piscinas en fotos satelitales usando visión por computador.
-- [Repositorio](https://github.com/eric-rome/swimming-pool-detection)
-- CNN · SVM · Procesado de imágenes · Python
+Detects swimming pools in satellite images using computer vision.
+- [Repository](https://github.com/eric-rome/swimming-pool-detection)
+- CNN · SVM · Image processing · Python
 
 ---
 
-### Runner móvil en Unity
-Juego móvil tipo runner hecho en 2 semanas.
-- [Repositorio](https://github.com/eric-rome/runner-mobile)
-- Unity 2D · UI móvil · Optimización
+### Unity Mobile Runner
+Endless runner mobile game developed in two weeks.
+- [Repository](https://github.com/eric-rome/runner-mobile)
+- Unity 2D · Mobile UI · Optimization
 
 ---
 
-## Contacto
+## Contact
 - [LinkedIn](https://linkedin.com/in/tu-usuario)
-- Correo: ericrmerichal@gmail.com
+- Email: ericrmerichal@gmail.com
