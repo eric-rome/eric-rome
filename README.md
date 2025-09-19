@@ -6,6 +6,8 @@ Passionate about video game development and artificial intelligence
 Experience in reinforcement learning, game design, UI/UX, and 2D/3D development  
 Technologies: Python, Unity, Pygame, Gymnasium, Stable-Baselines3
 
+*[Available in: [Español](./README.es.md) · [English](./README.md) · [Català](./README.ca.md)]*
+
 ---
 
 ## Featured Projects
