@@ -3,8 +3,8 @@
 Graduado en Ingeniería Informática (mención en Computación)  
 Actualmente estudiando un Máster en Desarrollo de Videojuegos en la UOC  
 Apasionado por el desarrollo de videojuegos y la inteligencia artificial  
-Experiencia en aprendizaje por refuerzo, diseño de videojuegos, UI/UX y desarrollo 2D/3D  
-Tecnologías: Python, Unity, Pygame, Gymnasium, Stable-Baselines3, C++, OpenGL
+Experiencia en machine learning, desarrollo 2D/3D de videojuegos
+Tecnologías: Python, Unity, Pygame, Gymnasium, Stable-Baselines3, C, C++, C#, OpenGL, Autoit, Java, PHP, SQL, Arduino
 
 *[Disponible en: [Español](./README.es.md) · [English](./README.md) · [Català](./README.cat.md)]*
 
