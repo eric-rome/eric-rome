@@ -20,7 +20,7 @@ Juego de estrategia por turnos donde una IA aprende a jugar con aprendizaje por 
 ### 🎮 Dont Pop It!
 Juego hecho en una game jam: transporta una burbuja gigante sin que explote.
 - [🔗 Repositorio](https://github.com/eric-rome/dont-pop-it)
-- 🧩 Unity 2D · Física personalizada · Game design exprés
+- 🧩 Unity 3D · Física personalizada · Game design exprés
 - 🌐 [Demo WebGL](...)
 
 ---
