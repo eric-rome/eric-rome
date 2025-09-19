@@ -42,7 +42,7 @@ Physical robot that plays a card game using computer vision and motors.
 ---
 
 ### ComedIAn
-Conversational chatbot that tells jokes based on user input.
+Conversational chatbot app that tells jokes based on user input using Google Cloud.
 - [Repository](https://github.com/ericrmerichal/ComedIAn)
 - Java · NLP basics · Interactive console UI
 
