@@ -3,8 +3,8 @@
 Graduat en Enginyeria Informàtica (menció en Computació)  
 Actualment estudiant un Màster en Desenvolupament de Videojocs a la UOC  
 Apasionat pel desenvolupament de videojocs i la intel·ligència artificial  
-Experiència en aprenentatge per reforç, disseny de videojocs, UI/UX i desenvolupament 2D/3D  
-Tecnologies: Python, Unity, Pygame, Gymnasium, Stable-Baselines3, C++, OpenGL
+Experiència en machine learning, desenvolupament 2D/3D de videojocs 
+Tecnologies: Python, Unity, Pygame, Gymnasium, Stable-Baselines3, C, C++, C#, OpenGL, Autoit, Java, PHP, SQL, Arduino
 
 *[Disponible en: [Español](./README.es.md) · [English](./README.md) · [Català](./README.cat.md)]*
 
